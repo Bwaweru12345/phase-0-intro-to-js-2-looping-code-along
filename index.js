@@ -7,9 +7,6 @@ function writeCards(name) {
     let message = `Thank you, ${name[i]}, for the wonderful surprise gift!`;
     
      messages.push(message);
- 
-
-   
      
 }
 
